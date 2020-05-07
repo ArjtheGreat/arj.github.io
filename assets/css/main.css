@@ -2177,7 +2177,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #494299 url("../../images/maskweaers.jpeg");
+		background: #fff url("../../images/maskweaers.jpeg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
