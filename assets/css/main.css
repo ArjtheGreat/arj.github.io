@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }`
 
+div.a {
+	text-align: center;
+}
+
 blockquote, q {
 	quotes: none;
 }
