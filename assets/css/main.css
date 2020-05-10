@@ -1576,7 +1576,7 @@ input, select, textarea {
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
 		padding: 2.75em 1.75em 2.75em 1.75em;
-		margin: -4.5em 1.25em 4.25em -3.5em;
+		margin: -4.5em 1.25em 4.25em -6.5em;
 	}
 
 		.box .image.featured {
@@ -1584,7 +1584,7 @@ input, select, textarea {
 			width: auto;
 			left: 1.75em;
 			top: 1.75em;
-			margin: -4.5em 1.25em 4.25em -3.5em;
+			margin: -4.5em 1.25em 4.25em -6.5em;
 		}
 
 		.box.post header {
