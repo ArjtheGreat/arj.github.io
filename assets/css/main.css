@@ -1575,7 +1575,7 @@ input, select, textarea {
 	.box {
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 2.75em 2.75em 2.75em 1.75em;
+		padding: 2.75em 10em 2.75em 1.75em;
 	}
 
 		.box .image.featured {
@@ -1652,7 +1652,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #252122;
+			background: #1345c5;
 		}
 
 			input[type="button"].alt:hover,
@@ -1660,7 +1660,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #353132;
+				background: #1345c5;
 			}
 
 			input[type="button"].alt:active,
@@ -1668,7 +1668,7 @@ input, select, textarea {
 			input[type="reset"].alt:active,
 			button.alt:active,
 			.button.alt:active {
-				background: #151112;
+				background: #1345c5;
 			}
 
 		input[type="button"].icon:before,
