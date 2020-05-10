@@ -1575,7 +1575,7 @@ input, select, textarea {
 	.box {
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 2.75em 1.75em 2.75em 1.75em;
+		padding: 2.75em 2.75em 2.75em 1.75em;
 	}
 
 		.box .image.featured {
@@ -1636,7 +1636,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #e53359;
+			background: #3365e5;
 		}
 
 		input[type="button"]:active,
