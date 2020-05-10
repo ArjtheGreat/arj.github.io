@@ -1636,7 +1636,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #3365e5;
+			background: #1345c5;
 		}
 
 		input[type="button"]:active,
@@ -1644,7 +1644,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #c51349;
+			background: #1345c5;
 		}
 
 		input[type="button"].alt,
