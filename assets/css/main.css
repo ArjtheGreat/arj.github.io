@@ -2763,11 +2763,11 @@ input, select, textarea {
 		/* Box */
 
 			.box {
-				padding: 25px 15px 20px 15px;
+				padding: 25px 15px 20px 35px;
 			}
 
 				.box .image.featured {
-					left: 15px;
+					left: 35px;
 					top: 15px;
 					margin: -40px 0 40px -30px;
 				}
